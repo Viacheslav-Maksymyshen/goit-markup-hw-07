@@ -15,10 +15,4 @@
   --backdrop-background-color: rgba(0, 0, 0, 0.2);
   --project-name-background-color: rgba(47, 48, 58, 0.8);
 }
-
-body {
-  font-family: "Roboto", sans-serif;
-  color: var(--main-text-color);
-  background-color: var(--white-color);
-}
 /*# sourceMappingURL=variables.css.map */
